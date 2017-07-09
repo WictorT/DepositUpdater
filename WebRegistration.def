@@ -1,0 +1,12 @@
+LIBRARY WebRegistration
+
+EXPORTS
+    MtSrvAbout
+    MtSrvStartup
+    MtSrvPluginCfgAdd
+    MtSrvPluginCfgSet
+    MtSrvPluginCfgGet
+    MtSrvPluginCfgNext
+    MtSrvPluginCfgDelete
+    MtSrvPluginCfgTotal
+    MtSrvTelnet

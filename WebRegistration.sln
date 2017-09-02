@@ -3,21 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebRegistration", "WebRegistration.vcxproj", "{10993773-FE52-46E6-86E8-34E8540D419C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebRegistration", "WebRegistration.vcxproj", "{A7E979C2-F116-4098-921F-F8FE1B354671}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
-		Template|x86 = Template|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{10993773-FE52-46E6-86E8-34E8540D419C}.Debug|x86.ActiveCfg = Debug|Win32
-		{10993773-FE52-46E6-86E8-34E8540D419C}.Debug|x86.Build.0 = Debug|Win32
-		{10993773-FE52-46E6-86E8-34E8540D419C}.Release|x86.ActiveCfg = Release|Win32
-		{10993773-FE52-46E6-86E8-34E8540D419C}.Release|x86.Build.0 = Release|Win32
-		{10993773-FE52-46E6-86E8-34E8540D419C}.Template|x86.ActiveCfg = Template|Win32
-		{10993773-FE52-46E6-86E8-34E8540D419C}.Template|x86.Build.0 = Template|Win32
+		{A7E979C2-F116-4098-921F-F8FE1B354671}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7E979C2-F116-4098-921F-F8FE1B354671}.Debug|x86.Build.0 = Debug|Win32
+		{A7E979C2-F116-4098-921F-F8FE1B354671}.Release|x86.ActiveCfg = Release|Win32
+		{A7E979C2-F116-4098-921F-F8FE1B354671}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

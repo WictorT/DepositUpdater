@@ -17,7 +17,7 @@
 #include <sys/stat.h>
 #include <winsock2.h>
 //---- Server API
-#include "..\..\include\MT4ServerAPI.h"
+#include "MT4ServerAPI.h"
 //---- Common headers
 #include "common\common.h"
 #include "config\stringfile.h"
